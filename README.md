@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @antonwp
-- 👀 I’m Frontend Developer
-- 🌱 I’m currently learning JavaScript, React, Redux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
+- 👋 Меня зовут Анто
+- 👀 Я Junior Frontend разработчик
+- 🌱 Я изучаю JavaScript, React, Redux
+- 💞️ Ищу компанию мечты в которой буду расти и развивать свои навыки
+- 📫 Со мной можно связаться через Telegramm: @antonwp или [https://vk.com/id185212073](ВКонтакте)
